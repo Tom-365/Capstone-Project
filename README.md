@@ -1,2 +1,2 @@
-# Capstone-Project
-Little Lemon Project: http://localhost:3000/
+# Little Lemon
+My Project: http://localhost:3000/

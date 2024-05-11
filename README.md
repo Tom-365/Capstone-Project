@@ -1,3 +1,3 @@
-# <a href="http://localhost:3000/" target="_blank">Little Lemon</a>
+# Little Lemon
 <a href="http://localhost:3000/" target="_blank">Little Lemon Project</a>
 
